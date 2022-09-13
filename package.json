@@ -11,5 +11,8 @@
   "dependencies": {
     "axios": "^0.27.2",
     "telegraf": "^4.9.1"
+  },
+  "devDependencies": {
+    "ngrok": "^4.3.3"
   }
 }
